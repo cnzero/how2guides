@@ -1,0 +1,6 @@
+# general ignore files
+*.txt~
+
+# python ignore files
+*.pyc
+*.un~
